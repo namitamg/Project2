@@ -1,0 +1,14 @@
+/* carousel-inner.carousel-item active{
+   
+    margin-top: 100px;
+} */
+
+
+
+  .carousel-inner {
+    
+    height: 800px!important;
+   position: relative;
+   margin-left: 150px;
+}
+

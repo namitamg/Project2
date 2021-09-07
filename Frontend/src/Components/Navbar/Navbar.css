@@ -1,0 +1,8 @@
+.navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+    padding-left: 61px;
+}
+
+.nav-item {
+    padding-left:30px
+}

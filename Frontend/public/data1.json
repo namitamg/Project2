@@ -1,0 +1,29 @@
+[
+    {
+        "id":"0",
+        "img": "https://static.toiimg.com/thumb/49551643/Weekend-trips-from-Pondicherry.jpg?width=1200&height=900",
+        "name": "Pondicherry"
+        
+    },
+    {
+        "id":"1",
+        "img": "https://imgk.timesnownews.com/story/Goa_beach_istock_1200.jpg?tr=w-1200,h-900",
+        "name": "Goa"
+       
+    },
+    {
+        "id":"2",
+        "img": "https://static.toiimg.com/thumb/msid-35951814,width=1200,height=900/35951814.jpg",
+        "name": "Manali"
+        
+    },
+    {
+        "id":"3",
+        "img": "https://static.toiimg.com/thumb/76405061/kerala.jpg?width=1200&height=900",
+        "name": "Kerala"
+        
+    }
+    
+    
+    
+]

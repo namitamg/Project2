@@ -1,0 +1,50 @@
+[
+    {
+        "id":"0",
+        "img": "https://a0.muscache.com/im/pictures/c92a8ed3-1390-4d17-a66b-a4e88dca93be.jpg?im_w=1200",
+        "img1": "https://static.toiimg.com/thumb/49551643/Weekend-trips-from-Pondicherry.jpg?width=1200&height=900",
+        "name1": "Pondicherry",
+        "name": "La maison bleue Eco-conscious lodging, Pondicherry",
+        "price": "Rs.1500/-",
+        "description":"Private room in bungalow 'Casa Ahau'.",
+        "desp1": "1 BHK Bungalow 3 guests",
+        "desp2":" 1 bedroom,  2 beds, · 1 shared bathroom."
+    },
+    
+    {
+        "id":"1",
+        "img": "https://a0.muscache.com/im/pictures/29cc0a21-4b94-41b5-a2e2-d4229307efb8.jpg?im_w=1200",
+        "name": "Gravityville-Heritage, Goa",
+        "img1": "https://imgk.timesnownews.com/story/Goa_beach_istock_1200.jpg?tr=w-1200,h-900",
+        "name1": "Goa",
+        "price": "Rs.4000/-",
+        "description":"Private room in bungalow 'Casa Ahau'.",
+        "desp1": "3 BHK Bungalow 6 guests",
+        "desp2":" 3 bedroom,  6 beds, · 3 bathroom."
+    },
+    {
+        "id":"2",
+        "img": "https://a0.muscache.com/im/pictures/d505e1c0-3379-46f0-b3a4-517bc3f7d9f9.jpg?im_w=1200",
+        "name": "Vigel villa, Manali",
+        "img1": "https://static.toiimg.com/thumb/msid-35951814,width=1200,height=900/35951814.jpg",
+        "name1": "Manali",
+        "price": "Rs.3500/-",
+        "description":"Private room in bungalow 'The Dune Eco' 2BHK in Heritage town'.",
+        "desp1": "2 BHK Bungalow 5 guests",
+        "desp2":" 2 bedroom,  4 beds, · 2 bathroom."
+        
+    },
+    {
+        "id":"3",
+        "img": "https://pix8.agoda.net/hotelImages/6125420/-1/eea1f4af2bca050465ab2e0fb42359ff.jpg?s=450x450",
+        "name": "Casa Meena - Sea view villa, Kerala",
+        "img1": "https://static.toiimg.com/thumb/76405061/kerala.jpg?width=1200&height=900",
+        "name1": "Kerala",
+        "price": "Rs.2500/-",
+        "description":"Room in bungalow 'Casa Meena 2BHK sea view villa' 2BHK in villa'.",
+        "desp1": "2 BHK Bungalow 5 guests",
+        "desp2":" 2 bedroom,  4 beds, · 2 bathroom."
+    }
+    
+    
+]
